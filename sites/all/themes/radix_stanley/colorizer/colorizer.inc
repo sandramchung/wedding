@@ -61,6 +61,16 @@ $info = array(
         'linkhover' => '#e74c3c',
       ),
     ),
+    'chartreuse' => array(
+      'title' => t('Chartreuse-Burgundy'),
+      'colors' => array (
+        'primary' => '#5e0c23',
+        'navbar' => '#dfff00',
+        'footer' => '#2f2f2f',
+        'link' => '#5e0c23',
+        'linkhover' => '#7E3D4F',
+      ),
+    ),
   ),
 
   // Gradient definitions.
